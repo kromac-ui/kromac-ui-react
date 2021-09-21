@@ -1,0 +1,2 @@
+(this.webpackJsonpkromac=this.webpackJsonpkromac||[]).push([[4],{25:function(e,s,c){"use strict";c.r(s),c.d(s,"default",(function(){return a}));c(0);var n=c(1),a=function(e){var s=e.componentText;return Object(n.jsxs)("div",{className:"div-implementation",children:[Object(n.jsx)("span",{className:"red"}),Object(n.jsx)("span",{className:"yellow"}),Object(n.jsx)("span",{className:"green"}),Object(n.jsx)("code",{children:s})]})}}}]);
+//# sourceMappingURL=4.0efb8ab8.chunk.js.map
