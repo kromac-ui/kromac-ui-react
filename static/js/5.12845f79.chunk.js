@@ -1,0 +1,2 @@
+(this["webpackJsonpkromac-6"]=this["webpackJsonpkromac-6"]||[]).push([[5],{25:function(e,s,c){"use strict";c.r(s),c.d(s,"default",(function(){return a}));c(0);var n=c(1),a=function(e){var s=e.componentText;return Object(n.jsxs)("div",{className:"div-implementation",children:[Object(n.jsx)("span",{className:"red"}),Object(n.jsx)("span",{className:"yellow"}),Object(n.jsx)("span",{className:"green"}),Object(n.jsx)("code",{children:s})]})}}}]);
+//# sourceMappingURL=5.12845f79.chunk.js.map
