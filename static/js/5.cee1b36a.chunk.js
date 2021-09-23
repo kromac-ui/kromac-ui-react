@@ -1,0 +1,2 @@
+(this["webpackJsonpkromac-test-5"]=this["webpackJsonpkromac-test-5"]||[]).push([[5],{25:function(e,s,t){"use strict";t.r(s),t.d(s,"default",(function(){return n}));t(0);var c=t(1),n=function(e){var s=e.componentText;return Object(c.jsxs)("div",{className:"div-implementation",children:[Object(c.jsx)("span",{className:"red"}),Object(c.jsx)("span",{className:"yellow"}),Object(c.jsx)("span",{className:"green"}),Object(c.jsx)("code",{children:s})]})}}}]);
+//# sourceMappingURL=5.cee1b36a.chunk.js.map

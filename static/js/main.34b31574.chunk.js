@@ -1,0 +1,2 @@
+(this["webpackJsonpkromac-test-5"]=this["webpackJsonpkromac-test-5"]||[]).push([[13],{10:function(e,t,n){"use strict";n.r(t);var c=n(0),s=n(3),r=n.n(s),o=(n(8),n.p,n(1)),a=Object(c.lazy)((function(){return Promise.all([n.e(15),n.e(82)]).then(n.bind(null,207))}));r.a.render(Object(o.jsx)(c.Suspense,{fallback:Object(o.jsx)("div",{children:"Loading Kromac UI..."}),children:Object(o.jsx)(a,{})}),document.getElementById("root"))},8:function(e,t,n){}},[[10,14,16]]]);
+//# sourceMappingURL=main.34b31574.chunk.js.map
