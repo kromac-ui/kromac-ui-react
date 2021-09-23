@@ -1,2 +1,0 @@
-(this.webpackJsonpkromac=this.webpackJsonpkromac||[]).push([[40],{192:function(c,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return n}));e(0),e(82);var r=e(1),n=function(){return Object(r.jsx)("div",{className:"kromac-footer-container",children:Object(r.jsx)("div",{className:"kromac-footer",children:Object(r.jsx)("span",{className:"text-bg-light",children:"Kromac UI Copyright \xa9 2021"})})})}},82:function(c,t,e){}}]);
-//# sourceMappingURL=40.a16c8bbf.chunk.js.map

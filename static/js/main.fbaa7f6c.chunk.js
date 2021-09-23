@@ -1,2 +1,0 @@
-(this.webpackJsonpkromac=this.webpackJsonpkromac||[]).push([[14],{4:function(e,n,o){"use strict";o.r(n);var c=o(0),t=o(3),r=o.n(t),a=o(1),s=Object(c.lazy)((function(){return Promise.all([o.e(16),o.e(83)]).then(o.bind(null,10))}));console.log("OS pc => ",window.navigator.appVersion.toLowerCase()),r.a.render(Object(a.jsx)(c.Suspense,{fallback:Object(a.jsx)("div",{children:"Loading Kromac UI..."}),children:Object(a.jsx)(s,{})}),document.getElementById("root"))}},[[4,15,17]]]);
-//# sourceMappingURL=main.fbaa7f6c.chunk.js.map

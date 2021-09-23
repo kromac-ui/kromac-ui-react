@@ -1,0 +1,2 @@
+(this.webpackJsonpkromac=this.webpackJsonpkromac||[]).push([[62],{169:function(s,e,c){},226:function(s,e,c){"use strict";c.r(e),c.d(e,"default",(function(){return a}));c(0),c(16);var n=c(14),t=(c(169),c(1)),a=function(s){var e=s.size,c=void 0===e?"sm":e,a=s.isCentered,i=void 0!==a&&a,r=s.shadows,o=void 0===r||r?"shadows":"";return Object(t.jsx)("div",{className:"kromac-spinner spinner-waves ".concat(c," ").concat(o),style:Object(n.r)(i),children:Object(t.jsx)("div",{className:"loader",children:Object(n.q)(8)})})}}}]);
+//# sourceMappingURL=62.196319d1.chunk.js.map
