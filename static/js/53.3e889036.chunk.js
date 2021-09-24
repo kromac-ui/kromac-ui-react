@@ -1,2 +1,0 @@
-(this["webpackJsonpkromac-6"]=this["webpackJsonpkromac-6"]||[]).push([[53],{153:function(n,t,c){},227:function(n,t,c){"use strict";c.r(t),c.d(t,"default",(function(){return i}));var e=c(13),a=c(0),r=(c(16),c(153),c(1)),u=Object(a.lazy)((function(){return c.e(24).then(c.bind(null,206))})),i=function(n){return Object(r.jsx)(u,Object(e.a)(Object(e.a)({},n),{},{className:"card-img"}))}}}]);
-//# sourceMappingURL=53.3e889036.chunk.js.map
